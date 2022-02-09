@@ -1,0 +1,11 @@
+button:hover {
+   background-color:rgb(110, 247, 229);
+   font-weight: bold;
+}
+
+#duplicateField {
+   padding-left: 30px;
+   font-size: 18px;
+   font-family: 'Times New Roman', Times, serif;
+   font-style: italic;
+}

@@ -1,0 +1,9 @@
+p {
+   font-size: 25px;
+   font-weight: bolder;
+   color: yellow;
+   background-color:rgb(58, 1, 104);
+   margin-left: 20px;
+   padding: 7px;
+   width:fit-content;
+}

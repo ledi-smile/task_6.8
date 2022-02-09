@@ -1,0 +1,19 @@
+body {
+   margin: 0;
+}
+
+li {
+   margin: 20px;
+}
+
+a {
+   text-decoration: none;
+   font-size: 20px;
+   padding: 7px;
+}
+
+a:hover {
+   background-color: lime;
+   color: black;
+   font-weight: bold;
+}
